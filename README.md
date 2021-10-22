@@ -11,3 +11,4 @@ The plugins are up for sale u can contac me in Discord: **Levi2288#3444**
 #Plugins
 
 * **DDOS plugin** : Player game crasher basically 
+* **Multi 1v1 wallhack round**
